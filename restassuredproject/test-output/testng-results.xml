@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24561" started-at="2022-01-12T22:15:31 IST" finished-at="2022-01-12T22:15:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24561" started-at="2022-01-12T22:15:31 IST" finished-at="2022-01-12T22:15:55 IST">
+      <class name="restassuredproject.demo">
+        <test-method status="PASS" signature="login()[pri:0, instance:restassuredproject.demo@b0bfab]" name="login" duration-ms="11256" started-at="2022-01-12T22:15:31 IST" finished-at="2022-01-12T22:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="get()[pri:1, instance:restassuredproject.demo@b0bfab]" name="get" duration-ms="7270" started-at="2022-01-12T22:15:42 IST" finished-at="2022-01-12T22:15:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="create()[pri:2, instance:restassuredproject.demo@b0bfab]" name="create" duration-ms="1990" started-at="2022-01-12T22:15:49 IST" finished-at="2022-01-12T22:15:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method status="PASS" signature="productid()[pri:3, instance:restassuredproject.demo@b0bfab]" name="productid" duration-ms="1933" started-at="2022-01-12T22:15:51 IST" finished-at="2022-01-12T22:15:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productid -->
+        <test-method status="PASS" signature="updateid()[pri:4, instance:restassuredproject.demo@b0bfab]" name="updateid" duration-ms="1978" started-at="2022-01-12T22:15:53 IST" finished-at="2022-01-12T22:15:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateid -->
+      </class> <!-- restassuredproject.demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
